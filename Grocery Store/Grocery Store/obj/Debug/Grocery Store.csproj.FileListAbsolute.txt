@@ -1,0 +1,13 @@
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe.config
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\bin\Debug\Grocery Store.pdb
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\bin\Debug\System.Data.OleDb.dll
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\bin\Debug\System.Data.OleDb.xml
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csproj.AssemblyReference.cache
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Form1.resources
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Properties.Resources.resources
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csproj.GenerateResource.cache
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csproj.CoreCompileInputs.cache
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csproj.CopyComplete
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\obj\Debug\Grocery Store.exe
+C:\Users\Zxshx\OneDrive\Desktop\Grocery Store MTP Project\Grocery Store\Grocery Store\obj\Debug\Grocery Store.pdb
